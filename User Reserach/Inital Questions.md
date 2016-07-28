@@ -32,3 +32,4 @@ Ethical Questions
 - How much access should other doctors have
 - Should emergency medical information be always available (EG medical alert info)
 - Who decides on classifications?
+- Should patients be able to add info? Would it be useful?
